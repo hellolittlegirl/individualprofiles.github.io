@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>页面切换</title>
+	<title>个人简历</title>
 	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 	<script type="text/javascript" src="skills.js"></script>
 	<style type="text/css">
